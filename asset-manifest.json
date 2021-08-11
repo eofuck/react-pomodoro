@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-pomodoro/static/css/main.f9467555.chunk.css",
-    "main.js": "/react-pomodoro/static/js/main.0007ee05.chunk.js",
-    "main.js.map": "/react-pomodoro/static/js/main.0007ee05.chunk.js.map",
+    "main.js": "/react-pomodoro/static/js/main.5d4d855b.chunk.js",
+    "main.js.map": "/react-pomodoro/static/js/main.5d4d855b.chunk.js.map",
     "runtime-main.js": "/react-pomodoro/static/js/runtime-main.ac4fd1c6.js",
     "runtime-main.js.map": "/react-pomodoro/static/js/runtime-main.ac4fd1c6.js.map",
     "static/css/2.6c0f60ba.chunk.css": "/react-pomodoro/static/css/2.6c0f60ba.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.6c0f60ba.chunk.css",
     "static/js/2.1d651794.chunk.js",
     "static/css/main.f9467555.chunk.css",
-    "static/js/main.0007ee05.chunk.js"
+    "static/js/main.5d4d855b.chunk.js"
   ]
 }
