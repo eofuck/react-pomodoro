@@ -84,7 +84,7 @@ function Timer() {
       //if not paused or time didn't run out
       tick();
       //lower this number for speeding timer up
-    }, 100); //milliseconds
+    }, 1000); //milliseconds
 
     //when it onmounts this runs
     return () => clearInterval(interval);
