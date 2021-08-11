@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-pomodoro/static/css/main.f9467555.chunk.css",
+    "main.js": "/react-pomodoro/static/js/main.0007ee05.chunk.js",
+    "main.js.map": "/react-pomodoro/static/js/main.0007ee05.chunk.js.map",
+    "runtime-main.js": "/react-pomodoro/static/js/runtime-main.ac4fd1c6.js",
+    "runtime-main.js.map": "/react-pomodoro/static/js/runtime-main.ac4fd1c6.js.map",
+    "static/css/2.6c0f60ba.chunk.css": "/react-pomodoro/static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.1d651794.chunk.js": "/react-pomodoro/static/js/2.1d651794.chunk.js",
+    "static/js/2.1d651794.chunk.js.map": "/react-pomodoro/static/js/2.1d651794.chunk.js.map",
+    "index.html": "/react-pomodoro/index.html",
+    "static/css/2.6c0f60ba.chunk.css.map": "/react-pomodoro/static/css/2.6c0f60ba.chunk.css.map",
+    "static/css/main.f9467555.chunk.css.map": "/react-pomodoro/static/css/main.f9467555.chunk.css.map",
+    "static/js/2.1d651794.chunk.js.LICENSE.txt": "/react-pomodoro/static/js/2.1d651794.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac4fd1c6.js",
+    "static/css/2.6c0f60ba.chunk.css",
+    "static/js/2.1d651794.chunk.js",
+    "static/css/main.f9467555.chunk.css",
+    "static/js/main.0007ee05.chunk.js"
+  ]
+}
